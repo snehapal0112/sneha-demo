@@ -1,4 +1,4 @@
 # sneha-demo
 This is my first github repository
 <br>
-Author - Sneha Pal
+Author - Sneha  Pal (collge student)
